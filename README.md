@@ -5,4 +5,4 @@ Predicting <b>audience rating</b> with 3 different models:
 * Random Forest Regressor
 * Gradient Boosting Regressor
 
-[Model Comparison](!https://i.postimg.cc/qB9ntqtq/newplot1.png)
+![Model Comparison](https://i.postimg.cc/qB9ntqtq/newplot1.png)
